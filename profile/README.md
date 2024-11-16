@@ -2,13 +2,9 @@
 
 **Here are some ideas to get you started:**
 
-https://slope.blog
+<a href="https://slope.blog" tagret="_blank">PLAY SLOPE</a>
 
-https://mathlessons.pages.dev
-
-https://mathlessons.live
-
-https://lesson1.guru
+<a href="https://retro2.blog" target="_blank"> play slope 2</a>
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
