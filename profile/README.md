@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 **Here are some ideas to get you started:**
+<h3><a href="https://2slope.pages.dev">PLAY SLOPE</a></h3>
 
 <a href="https://slope.blog" tagret="_blank">PLAY SLOPE</a>
 
