@@ -6,7 +6,7 @@
 <a href="https://slope.blog" tagret="_blank">PLAY SLOPE</a>
 
 <a href="https://retro2.blog" target="_blank"> play slope 2</a>
-
+<a href="https://2slope.pages.dev"><img src="https://clearcache.store/games.png"></a>
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
